@@ -1,1 +1,1 @@
-# Rosalind
+# Bioinformatics
